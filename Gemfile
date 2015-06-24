@@ -41,6 +41,7 @@ gem 'cancan'
 gem 'paperclip'
 gem 'aws-sdk', '~> 1.61.0'
 gem 'friendly_id'
+gem 'stripe'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
